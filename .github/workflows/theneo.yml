@@ -47,10 +47,7 @@ jobs:
 
           AUTO_PUBLISH: true
 
-          IMPORT_OPTION: merge
-
-          PARAMETER_DESCRIPTION_MERGE_STRATEGY: keep_new
-
-          SECTION_DESCRIPTION_MERGE_STRATEGY: keep_old
+          IMPORT_OPTION: overwrite
+ 
 
           INCLUDE_GITHUB_METADATA: true
