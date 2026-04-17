@@ -39,9 +39,7 @@ jobs:
           FILE_PATH: brokerageAPI_1.2.yaml
 
           PROJECT_SLUG: testing-project
-
-          VERSION_SLUG: <version_slug>
-
+  
           WORKSPACE_SLUG: mywk
 
           SECRET: ${{secrets.THENEO_SECRET}}
