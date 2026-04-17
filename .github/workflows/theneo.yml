@@ -44,7 +44,7 @@ jobs:
 
           WORKSPACE_SLUG: mywk
 
-          SECRET: ${{secrets.SECRET}}
+          SECRET: ${{secrets.THENEO_SECRET}}
 
 
           AUTO_PUBLISH: true
