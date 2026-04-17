@@ -3,7 +3,7 @@
   "info": {
     "title": "Tradier Brokerage API",
     "description": "API for accessing Tradier brokerage services",
-    "version": "1.0.5"
+    "version": "1.0.45"
   },
   "servers": [
     {
