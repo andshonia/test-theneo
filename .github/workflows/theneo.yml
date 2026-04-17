@@ -36,7 +36,7 @@ jobs:
 
         with:
 
-          FILE_PATH: doc/api.yml
+          FILE_PATH: brokerageAPI_1.2.yaml
 
           PROJECT_SLUG: testing-project
 
